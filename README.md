@@ -1,8 +1,2 @@
 # personal_projects
-<<<<<<< Updated upstream
-testing what i can do
-testing again
-see what i cand do
-=======
-testing
->>>>>>> Stashed changes
+이곳에서 개인 프로젝트를 올려놓는 공간
